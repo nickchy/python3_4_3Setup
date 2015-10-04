@@ -7,7 +7,6 @@ pyreadline==2.0
 celery==3.1.18
 progressbar2==2.7.3
 py3-progressbar==2.4dev0
-h5py==2.5.0
 xlrd==0.9.4
 pyparsing==2.0.3
 xlwt3==0.1.2
